@@ -18,7 +18,7 @@ I spend most of my work hours building applications using the latest front end t
 - ⚡ Fun fact: I go to the GYM 5 days a week.
 
 #### Work / Contact Information
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume](https://github.com/craiglrumph/craiglrumph/blob/main/CraigLRumph_Resume.pdf)
 - :email: craiglrumph@gmail.com
 
 
