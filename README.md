@@ -1,6 +1,6 @@
 ## Hi I'm Craig <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm a Full Stack Software Engineer primarily focused on front end development (React, Angular, TypeScript and JavaScript (ES6+), along with API and backend development experience (Node.js, Express.js, MongoDB, SQL Server, Azure).
+I'm a Full Stack Software Engineer primarily focused on front end development (React, Angular, TypeScript and JavaScript (ES6+), along with REST API and backend development experience (Node.js, Express.js, GraphQL, MongoDB, SQL Server).
 
 I spend most of my work hours building applications using the latest front end tools while adhering to industry best practices and recommended coding standards.
 
