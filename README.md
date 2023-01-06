@@ -17,7 +17,8 @@ I spend most of my work hours building applications using the latest front end t
 - 🤔 I’m always looking to work on new and exciting projects
 - ⚡ Fun fact: I go to the GYM 5 days a week.
 
-#### Work / Contact Information
+#### Web Site / Contact Information
+- :website: [My Web Site](https://craiglrumph.com)
 - :paperclip: [My Resume](https://github.com/craiglrumph/craiglrumph/blob/main/CraigLRumph_Resume.pdf)
 - :email: craiglrumph@gmail.com
 
