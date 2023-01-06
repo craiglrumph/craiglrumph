@@ -15,7 +15,7 @@ I spend most of my work hours building applications using the latest front end t
 <!-- - 🔭 I’m currently working at Capital One -->
 - :computer: Most used line of code `npx react-create-app ."`
 - 🤔 I’m always looking to work on new and exciting projects
-- ⚡ Fun fact: I go to the GYM 5 days a week.
+- ⚡ Fun fact: I go to the GYM 4 days a week.
 
 #### Web Site / Contact Information
 - :link: [My Web Site](https://craiglrumph.com)
