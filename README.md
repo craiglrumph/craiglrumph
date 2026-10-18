@@ -1,6 +1,8 @@
 # Hi, I'm Craig 👋
 
-**Senior Full Stack Engineer · Claude Code · Angular · .NET · Azure | AI-assisted development, agentic workflows, custom skills, MCP integrations**
+**Senior Full Stack Engineer · Claude Code · Angular · .NET · Azure 
+
+*AI-assisted development, agentic workflows, custom skills, MCP integrations*
 
 I've spent 25+ years building enterprise applications across finance, legal, healthcare, logistics, telecom, and e-commerce. I turn complex designs into fast, intuitive Angular front ends and back them with secure ASP.NET Core APIs on Azure. Over the past year I've made AI-assisted development, with Claude Code at the center, a first-class part of how I deliver.
 
