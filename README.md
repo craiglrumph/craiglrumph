@@ -1,6 +1,6 @@
 # Hi, I'm Craig 👋
 
-**Senior Full Stack Engineer · Claude Code · Angular · .NET · Azure 
+**Senior Full Stack Engineer · Claude Code · Angular · .NET · Azure**
 
 *AI-assisted development, agentic workflows, custom skills, MCP integrations*
 
